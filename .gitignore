@@ -1,0 +1,11 @@
+# Exclude promo/demo images - only include 2 demo images
+icon.png
+promo3.png
+promo_OG.png
+promo1.png
+promo2.png
+sample_twitter_prior.png
+sample_GKeep.png
+sample_GKeep_prior.png
+sample_twitter_2.png
+quick_board.zip
